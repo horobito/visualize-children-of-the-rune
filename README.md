@@ -1,6 +1,9 @@
 # visualize-children-of-the-rune
 
 충동적 프로젝트
+- 원인? : https://gall.dcinside.com/mgallery/board/view/?id=children_of_the_rune&no=14968&page=1
+
+
 - 어떻게?
 - 1) 룬의 아이들 내용을 입력한다.
 - 2) Stable Diffusion 에 해당 내용이 반영된 요청이 들어간다. 
